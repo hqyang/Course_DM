@@ -1,6 +1,6 @@
 # Housing Values in Suburbs of Boston
 
-The **medv** variable is the target variable.  The description is copied from [[https://www.kaggle.com/c/boston-housing|here]].
+The **medv** variable is the target variable.  The description is copied from [here](https://www.kaggle.com/c/boston-housing).
 
 ## Data description
 The Boston data frame has 506 rows and 14 columns.
