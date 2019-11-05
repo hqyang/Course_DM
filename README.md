@@ -1,1 +1,1 @@
-# Course_DM
+# Materials for a Data Mining Course
